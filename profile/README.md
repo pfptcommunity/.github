@@ -12,8 +12,5 @@
 -->
 
 
-Proofpoint community readme is located:
-https://github.com/pfptcommunity/.github/edit/main/profile/README.md
-
 Looking for some simple sample code or Excel / PowerBI samples:
-Check the the (PROOFPOINT COMMUNITY)[https://github.com/pfptcommunity/pfptcommunity/blob/main/README.md]
+Check the the [PROOFPOINT COMMUNITY](https://github.com/pfptcommunity/pfptcommunity/blob/main/README.md)
