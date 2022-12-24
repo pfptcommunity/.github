@@ -1,6 +1,6 @@
 ## PROOFPOINT DATA ROCKS
 
-Looking for some simple sample code to get you started or some ready to run Microsoft Excel / Microsoft Power BI samples:
+Looking for some simple sample code to get you started or some ready to run **Microsoft Excel / Microsoft Power BI **samples:
 
 Check the [PROOFPOINT COMMUNITY HERE](https://github.com/pfptcommunity/pfptcommunity/blob/main/README.md)
 
