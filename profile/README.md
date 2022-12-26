@@ -3,8 +3,9 @@
 Looking for some simple sample code to get you started or some ready to run **Microsoft Excel / Microsoft Power BI** samples:
 
 Check the [PROOFPOINT COMMUNITY HERE](https://github.com/pfptcommunity/pfptcommunity/blob/main/README.md)
-[TAP](https://github.com/pfptcommunity/pfptcommunity/blob/main/README.md#spreadsheet-or-bi-tools-consuming-tap-api-data)
-[NPRE](https://github.com/pfptcommunity/pfptcommunity/blob/main/README.md#spreadsheet-or-bi-tools-consuming-npre-peoplerisk-data)
+
+[[TAP](https://github.com/pfptcommunity/pfptcommunity/blob/main/README.md#spreadsheet-or-bi-tools-consuming-tap-api-data)]
+[[NPRE](https://github.com/pfptcommunity/pfptcommunity/blob/main/README.md#spreadsheet-or-bi-tools-consuming-npre-peoplerisk-data)]
 [PSAT](https://github.com/pfptcommunity/pfptcommunity/blob/main/README.md#PSAT-API)
 [ETI](https://github.com/pfptcommunity/pfptcommunity/blob/main/README.md#ETI-API)
 
